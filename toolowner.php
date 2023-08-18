@@ -43,7 +43,7 @@
         }
         table {
             margin: 0 auto;
-            font-size: 12px;
+            font-size: 15px;
             
             border: 1px solid black;   
             /* max-width: 100%;
@@ -73,7 +73,7 @@
             /* font-size: 15px; */
             font-weight: bold;
             border: 1px solid #502a2a;
-            padding: 2px;
+            padding: 10px;
             text-align: center;
         }
  
