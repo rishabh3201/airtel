@@ -86,14 +86,14 @@
             display: block;
             width: fit-content;
             padding: 1px;
-            background-color: black;
+            background-color: #2f7e2f96;
             border-radius: 2px;
             text-decoration: none;
             color: white;
             transition: background  0.5s;
         }
         .reopen:hover{
-            background: #ff004f;
+            background: #00ff0096;
             cursor: pointer;
         }
         .close{
